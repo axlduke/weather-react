@@ -18,6 +18,7 @@ export default {
       backgroundImage: {
         'img1': "url('/src/assets/logo/theme/sunny.png')",
         'img2': "url('/src/assets/logo/theme/image.png')",
+        'img3': "url('/src/assets/logo/theme/raining.jpg')",
       },
     },
   },
